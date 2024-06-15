@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Erste Commit
 Zweite Commit ammend
+=======
+Erste Commit
+>>>>>>> d823dc0ca2fd023da4fbf8694c12e5688e10d577
