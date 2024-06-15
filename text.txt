@@ -3,4 +3,9 @@
 3. Text
 
 Sunday 
+<<<<<<< HEAD
 Sunday 2
+=======
+Sunday 2
+Rebase
+>>>>>>> ddefad4 ( New file text.txt)
